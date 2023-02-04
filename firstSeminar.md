@@ -10,5 +10,5 @@
 * git branch - 
 * git branch branch_name -
 * git checkout branch_name - 
-* git merge - 
+* git merge branch_name - слияние выбранной ветки с той в которой сейчас нахожусь
 * git branch -d branch_name - 
