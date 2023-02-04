@@ -11,4 +11,4 @@
 * git branch branch_name -
 * git checkout branch_name - 
 * git merge - 
-* git branch -d branch_name - удаление выбранной ветки
+* git branch -d branch_name - удаление выбранной ветки 
