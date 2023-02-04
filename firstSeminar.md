@@ -9,6 +9,6 @@
 * git checkout - переход к сохренному файлу по первым 4 символам коммита
 * git branch - 
 * git branch branch_name -
-* git checkout branch_name - команда перехода на выбранную ветку
+* git checkout branch_name - 
 * git merge - 
 * git branch -d branch_name - 
