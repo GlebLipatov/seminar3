@@ -12,4 +12,4 @@
 * git branch branch_name - создание новой ветки
 * git checkout branch_name - команда перехода на выбранную ветку
 * git merge branch_name - слияние выбранной ветки с той в которой сейчас нахожусь
-* git branch -d branch_name - 
+* git branch -d branch_name - удаление выбранной ветки 
