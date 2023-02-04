@@ -7,3 +7,8 @@
 * git commit -m "" - добавляет описание к только что сделанному коммиту
 * git log - просмот истории проиндексированых файлов с описанием коммитов
 * git checkout - переход к сохренному файлу по первым 4 символам коммита
+* git branch - 
+* git branch branch_name -
+* git checkout branch_name - 
+* git merge - 
+* git branch -d branch_name - 
